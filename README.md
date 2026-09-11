@@ -105,6 +105,8 @@ As macros sao salvas como uma lista JSON. Cada evento possui:
 
 O AFK47 usa listeners globais para capturar teclado e mouse e pode controlar o cursor e enviar teclas durante a reproducao. Evite gravar senhas, dados confidenciais ou qualquer sequencia que possa causar alteracoes indesejadas. Antes de iniciar uma macro, confirme a quantidade de repeticoes e mantenha o atalho de parada acessivel.
 
+Além disso utilizei ferramentas de inteligência artificial para incrementar passos de meu conhecimento e alguns que não tenho estudos totalmente
+
 ## Licenca
 
-Este projeto ainda nao possui uma licenca definida.
+O projeto é de código livre e pretendo melhora-lo no futuro
